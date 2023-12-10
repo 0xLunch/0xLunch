@@ -1,6 +1,6 @@
 - 🫡 gm, 0xLunch here aka Lunchtime.
-- 👀 I’m interested in Fullstack Development, Cloud Architechture, System Design, Blockchain and Web3, and all things Golang.
+- 👀 Fullstack Development, Cloud Architechture, System Design, Blockchain and Web3, and all things Golang.
 - 🤝 A serial advocate of Bitcoin and other various Cryptocurrencies. Tend to test in prod.
-- 🌱 I’m currently learning AI, ML, Distributed Systems and more modern applications.
-- 💞️ I’m looking to collaborate on Cutting Edge Web3 Projects, NFT tooling and trading bots.
-- 📫 How to reach me: @l_unchtime on X, 'lunchtime' on Discord, or itslunch@outlook.com.
+- 🌱 Currently learning AI, ML, Distributed Systems and more modern applications.
+- 💞️ Looking to collaborate on Cutting Edge Web3 Projects, NFT tooling and other crypto related endeavours.
+- 📫 [@l_unchtime](https://x.com/l_unchtime) on X, 'lunchtime' on Discord, or 📨itslunch@outlook.com.
